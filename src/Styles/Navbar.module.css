@@ -1,0 +1,9 @@
+.navbarWrapper{
+    grid-area: n;
+    background-color: #24b45f;
+    padding: 10px;
+}
+
+.navbarWrapper a{
+    text-decoration: none;
+}

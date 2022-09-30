@@ -1,0 +1,16 @@
+.postPageWrapper{
+    grid-area: c;
+    background-color: #4135d3;
+    padding: 15px;
+    color: white;
+}
+
+.textarea1 {
+    width: 300px;
+    height: 15px;
+}
+
+.textarea2 {
+    width: 300px;
+    height: 150px;
+}
